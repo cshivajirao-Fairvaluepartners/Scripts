@@ -1,3 +1,5 @@
+# Script to scrape a URL and return list of links
+
 import argparse
 from bs4 import BeautifulSoup, SoupStrainer
 from urllib.error import URLError
