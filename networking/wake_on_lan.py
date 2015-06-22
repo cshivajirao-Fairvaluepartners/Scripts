@@ -1,3 +1,5 @@
+# Script to perform Wake on LAN on a specified MAC address
+
 import sys
 from socket import *
 
